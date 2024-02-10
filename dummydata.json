@@ -1,0 +1,98 @@
+[
+    {
+      "category": "society_and_culture",
+      "id": "1",
+      "correctAnswer": "Soccer",
+      "Answer": [
+        "Soccer",
+        "Baseball",
+        "Basketball",
+        "Tennis"
+      ],
+      "question":  "What is the most popular sport in Mexico?"
+    },
+    {
+      "category": "history",
+      "id": "2",
+      "correctAnswer": "Bartolomeu Dias",
+      "Answer": [
+        "Amerigo Vespucci",
+        "Ferdinand Magellan",
+        "Francis Drake",
+        "Bartolomeu Dias"
+      ],
+      "question":  "Who Accidently Sailed Around The Cape Of Good Hope In 1488?"
+    },
+    {
+      "category": "food_and_drink",
+      "id": "3",
+      "correctAnswer": "Strand pasta",
+      "Answer": [
+        "Shaped pasta",
+        "Tubular pasta",
+        "Strand pasta",
+        "Stuffed pasta"
+      ],
+      "question":  "What type of pasta is vermicelli?"
+    },
+    {
+      "category": "geography",
+      "id": "4",
+      "correctAnswer": "Kyrgyzstan",
+      "Answer": [
+        "Belarus",
+        "Tajikistan",
+        "Azerbaijan",
+        "Kyrgyzstan"
+      ],
+      "question":  "Where would you find the city of Bishkek?"
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "5",
+      "correctAnswer": "Rembrandt",
+      "Answer": [
+        "Rembrandt",
+        "Vermeer",
+        "Van Gogh",
+        "Monet"
+      ],
+      "question":  "What Dutch master painted 64 self-portraits?"
+    },
+    {
+      "category": "history",
+      "id": "6",
+      "correctAnswer": "The Korean War",
+      "Answer": [
+        "The Vietnam War",
+        "The Korean War",
+        "World War II",
+        "The Spanish Civil War"
+      ],
+      "question":  "In what war did jet fighters first battle each other?"
+    },
+    {
+      "category": "sport_and_leisure",
+      "id": "7",
+      "correctAnswer": "Houston Rockets",
+      "Answer": [
+        "Houston Thunder",
+        "Houston A's",
+        "Houston Rockets",
+        "Houston Sounders"
+      ],
+      "question":  "Which of these is a basketball team based in Houston?"
+    },
+    {
+        "category": "geography",
+        "id": "8",
+        "correctAnswer": "Canada",
+        "Answer": [
+          "United States of America",
+          "Cuba",
+          "Ireland",
+          "Canada"
+        ],
+        "question" :"In what country is Thunder Bay?"
+      }
+  ]
